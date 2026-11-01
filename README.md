@@ -54,3 +54,12 @@ java -cp bin Main
 ## Status
 
 🌱 v0.1 under construction.
+
+## Timeline (live)
+
+- **Nov 2**: plan locked. End-sem = **Nov 23** → project freeze from **Nov 14**
+- **Nov 2–8**: practical file first; Java basics (Day 1–3) in spare slots only
+- **Nov 9–13**: v0.1 build window (~3–4 sessions)
+- **Nov 14–22**: 🧊 exam-freeze — no code, JAVA notes instead
+- **Nov 24 →**: post-exam runway — basics completion, then v0.2 → v0.4 over winter
+- Session ritual: every chat opens with today's date + plan day so progress stays honest 💪
