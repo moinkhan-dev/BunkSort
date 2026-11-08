@@ -136,8 +136,12 @@ v0.1.1 (✅ shipped) → v0.2 CLI Pro → v0.3 API server → v0.4 Web PWA → v
 ## 📌 Current Status (update this box at every session end)
 
 ```
-Phase reached:   Phase 0 complete (v0.1.1) — push pending (user auth)
-Next up:         Phase 1 — v0.2 CLI Pro
-Branch:          main
-Tests:           4/4 passing (manual runs)
+Phase reached:   v0.2 CLI Pro BUILT (branch feature/v0.2-cli-pro, unmerged, unpushed)
+                 - subjects.json persistence ✓ reload verified ✓
+                 - menu/ledger/log/what-if/add ✓ all engine tests passing through CLI ✓
+Next up:         user review of v0.2 diff -> merge to main -> push (user auth)
+                 then: freeze week; v0.3 API server builds silently Nov 14-22
+Branch:          feature/v0.2-cli-pro
+Tests:           engine cases 17/20→2, 9/12→0+warn, 21/30→6, 6/12→12 all pass via CLI;
+                 what-if hold/break paths verified; persistence roundtrip verified
 ```
