@@ -63,11 +63,11 @@ Engine output note: `subjects.json` is user data — do NOT commit it; delete or
 ```
 Branch:      feature/v0.2-cli-pro (v0.2 CLI Pro built: persistence, menu, log, what-if, danger buffer)
 Main:        has planner.md + v0.1.1 (push entities BELOW this line are unpushed to GitHub!)
-Unpushed:    entire history (user has not run git push yet — remind gently, never push yourself)
+Unpushed:    entire history (user has not run git push yet — remind gently; never push yourself)
 Next phase:  1) user reviews v0.2 diff -> merge to main -> user pushes
              2) Nov 14-22: agent silently builds feature/v0.3-api (Spring Boot + SQLite + REST + JUnit)
              3) Nov 23+: student reads v0.3 diff, runs tests, v0.4 PWA built together
-Calendar:    exams Nov 23; freeze Nov 14-22 —.weight study > code this week
+Calendar:    exams Nov 23; freeze Nov 14-22 — study outweighs code this week
 ```
 
 ## 6. Voice & tone with the student (same as the rest of the workspace)
